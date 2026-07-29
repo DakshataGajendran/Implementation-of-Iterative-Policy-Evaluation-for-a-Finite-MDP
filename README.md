@@ -223,11 +223,7 @@ Iterative policy evaluation was implemented successfully using the Gymnasium Fro
 
 ## Inference
 
-```text
 The discount factor was changed from γ = 0.99 to γ = 0.80. With the lower gamma value, the agent gave more importance to immediate rewards and less importance to future rewards. As a result, the state values decreased compared to the previous run, and the algorithm converged more quickly while still accurately estimating the state-value function
-
-
-```
 
 
 
